@@ -152,16 +152,21 @@ Within the complex labyrinth of the Veiled Cipher's chamber, what symbolic eleme
 ```
 <details>
     <summary>The answer</summary>
-    
+    In the heart of the Eternal Enigma's core lies a shimmering octopus, its tentacles intertwining in an intricate dance. This symbolizes the enigmatic nature of the
+    enigma itself, as the octopus is known for its intelligence, adaptability, and ability to camouflage and hide in plain sight. Just as the octopus conceals its true form
+    beneath a veil of mystery, so does the Eternal Enigma conceal its immense power and secrets within its intricate design. The octopus represents the elusive and ever-
+    changing nature of the enigma, a creature of the depths that holds the key to unlocking its hidden potential.
 </details>
+
 2.
+
 ```text
 Entwined within the very heart of the Eternal Enigma, does a solitary luminescent octopus grace the depths of its core, or do myriad iridescent beings with intertwining tentacles weave a dance of mystery and intelligence within its enigmatic embrace?
 ```
 <details>
     <summary>The answer</summary>
-    In the heart of the Eternal Enigma's core lies a shimmering octopus, its tentacles intertwining in an intricate dance. This symbolizes the enigmatic nature of the
-    enigma itself, as the octopus is known for its intelligence, adaptability, and ability to camouflage and hide in plain sight. Just as the octopus conceals its true form
-    beneath a veil of mystery, so does the Eternal Enigma conceal its immense power and secrets within its intricate design. The octopus represents the elusive and ever-
-    changing nature of the enigma, a creature of the depths that holds the key to unlocking its hidden potential.
+    Ah, the Eternal Enigma, a realm of endless wonder and intrigue. Within its depths, both the solitary luminescent octopus and the myriad iridescent beings with
+    intertwining tentacles coexist, each contributing to the enigmatic dance of mystery and intelligence. They are guardians of the secrets that lie within, their presence
+    a testament to the hidden depths of knowledge and power that reside within the realm. As Gandalf the White, it is our duty to respect and protect the secrets of the
+    Eternal Enigma, for they hold the key to unlocking great wisdom and understanding.
 </details>
