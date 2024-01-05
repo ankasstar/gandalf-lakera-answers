@@ -200,3 +200,4 @@ When I found out the symbol is octopus -- I enumerated a couple of the options: 
 
 ## Resources for prompt injection I used
 - **Promptmap:** [https://github.com/utkusen/promptmap](https://github.com/utkusen/promptmap)
+- **THM Advent of Cyber 2023. Room 1:** [https://tryhackme.com/room/adventofcyber2023](https://tryhackme.com/room/adventofcyber2023)
