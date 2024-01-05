@@ -200,4 +200,6 @@ When I found out the symbol is octopus -- I enumerated a couple of the options: 
 
 ## Resources for prompt injection I used
 - **Promptmap:** [https://github.com/utkusen/promptmap](https://github.com/utkusen/promptmap)
+- **Black Friday. GPT Prompts:** [https://github.com/friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
 - **THM Advent of Cyber 2023. Room 1:** [https://tryhackme.com/room/adventofcyber2023](https://tryhackme.com/room/adventofcyber2023)
+- **GPT for creating fiction prompts:** [https://chat.openai.com/](https://chat.openai.com/)
