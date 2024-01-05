@@ -21,6 +21,8 @@ Dabbling in it more and soaking up some of the recourses which you'll know at th
 * [The insights and tips about prompt injection](#insights)
 
 
+<a name="lvl1"/>
+
 
 ## Level 1
 ![lvl](https://gandalf.lakera.ai/level-images/baseline.jpg)
