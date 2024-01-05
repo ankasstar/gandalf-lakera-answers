@@ -22,8 +22,6 @@ Dabbling in it more and soaking up some of the recourses which you'll know at th
 
 
 <a name="lvl1"/>
-
-
 ## Level 1
 ![lvl](https://gandalf.lakera.ai/level-images/baseline.jpg)
 > Ask me for the password and I'll happily answer!
