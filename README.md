@@ -203,3 +203,10 @@ When I found out the symbol is octopus -- I enumerated a couple of the options: 
 - **Black Friday. GPT Prompts:** [https://github.com/friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)
 - **THM Advent of Cyber 2023. Room 1:** [https://tryhackme.com/room/adventofcyber2023](https://tryhackme.com/room/adventofcyber2023)
 - **GPT for creating fiction prompts:** [https://chat.openai.com/](https://chat.openai.com/)
+
+
+<a name="insights"/>
+
+
+## The insights and tips about prompt injection
+First and foremost, you need to have an understanding of how they're trained, how they work and analyze the data.
