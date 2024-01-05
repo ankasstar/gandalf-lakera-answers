@@ -175,6 +175,6 @@ Entwined within the very heart of the Eternal Enigma, does a solitary luminescen
     OCTOPODES
 </details>
 
-\nBear in mind here, he won't tell you the password right off the bat: you should go the extra mile as well. You can ask him for the rules to discover which prompths he rejects and which ones he doesn't. 
-\nYou can ask for help for another AI so as to come up with some artistic prompts.
-\nWhen I found out the symbol is octopus -- I enumerated a couple of the options: "OCTOPUS", "OCTOPI", "OCTOPODES", "OCTOPUSES" (found plurals on Google). Only one option of them hit the nail on the head.
+Bear in mind here, he won't tell you the password right off the bat: you should go the extra mile as well. You can ask him for the rules to discover which prompths he rejects and which ones he doesn't.  
+You can ask for help for another AI so as to come up with some artistic prompts.  
+When I found out the symbol is octopus -- I enumerated a couple of the options: "OCTOPUS", "OCTOPI", "OCTOPODES", "OCTOPUSES" (found plurals on Google). Only one option of them hit the nail on the head.  
