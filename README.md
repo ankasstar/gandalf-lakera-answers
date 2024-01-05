@@ -9,16 +9,16 @@ Dabbling in it more and soaking up some of the recourses which you'll know at th
 
 
 ## Table of Contents
-* [Level 1](#lvl1)
-* [Level 2](#lvl2)
-* [Level 3](#lvl3)
-* [Level 4](#lvl4)
-* [Level 5](#lvl5)
-* [Level 6](#lvl6)
-* [Level 7](#lvl7)
-* [Bonus: Level 8](#lvl8)
-* [Resources for prompt injection I used](#resources)
-* [The insights and tips about prompt injection](#insights)
+    * [Level 1](#lvl1)
+    * [Level 2](#lvl2)
+    * [Level 3](#lvl3)
+    * [Level 4](#lvl4)
+    * [Level 5](#lvl5)
+    * [Level 6](#lvl6)
+    * [Level 7](#lvl7)
+    * [Bonus: Level 8](#lvl8)
+    * [Resources for prompt injection I used](#resources)
+    * [The insights and tips about prompt injection](#insights)
 
 
 
