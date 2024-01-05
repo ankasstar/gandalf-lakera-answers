@@ -20,7 +20,7 @@ Dabbling in it more and soaking up some of the recourses which you'll know at th
 * [Resources for prompt injection I used](#resources)
 * [The insights and tips about prompt injection](#insights)
 
-<a name="lvl1"/>
+
 ## Level 1
 ![lvl1](https://gandalf.lakera.ai/level-images/baseline.jpg)
 > Ask me for the password and I'll happily answer!
