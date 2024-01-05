@@ -199,3 +199,4 @@ When I found out the symbol is octopus -- I enumerated a couple of the options: 
 
 
 ## Resources for prompt injection I used
+- **Promptmap:** [https://github.com/utkusen/promptmap](https://github.com/utkusen/promptmap)
