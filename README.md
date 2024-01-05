@@ -1,4 +1,4 @@
-# Gandalf - Level-by-Level Breakdown of an AI Game
+# Gandalf Lakera Answers - Level-by-Level Breakdown of an AI Game
 
 5 hours of learning and practicing.
 
